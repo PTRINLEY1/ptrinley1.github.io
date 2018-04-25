@@ -31,8 +31,8 @@ header {
 
 header img {
 	float: left;
-	padding-right: 30px 3.75%; /* 30 % 800 * 100   */
-	padding-left: 30px 3.75%;  /* 30 % 800 * 100   */
+	padding-right: 2px; /* 30 % 800 * 100   */
+	padding-left: 2px;  /* 30 % 800 * 100   */
 }
 
 .logo {
@@ -149,7 +149,7 @@ button {
 /* the styles for the aside */
 aside {
 	float: right;
-	padding-left: 20px 2.5%;  /* 20 % 800 * 100  */
+	padding-right: 10px;  /* 20 % 800 * 100  */
 	padding-bottom: 20px;
 }
 
@@ -222,8 +222,8 @@ section {
 	width: 65.625%; /* Changed from 525px...(525 % 800 * 100) */
 	float: left;
 	padding-bottom: 20px;
-	padding-left: 20px 2.5%;
-	padding-right: 20px 2.5%;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 main section h1{
 	font-size: 150%;
@@ -349,8 +349,8 @@ a:active {
 @media only screen and (max-width: 767px) {
 	header img {
 		float: none;
-		padding-right: 30px 3.75%; /* 30 % 800 * 100   */
-		padding-left: 30px 3.75%;  /* 30 % 800 * 100   */
+		padding-right: 30px; /* 30 % 800 * 100   */
+		padding-left: 30px;  /* 30 % 800 * 100   */
 	}
 
 	.coffee_header {
@@ -376,15 +376,15 @@ a:active {
 	section {
 		width: 95%; 
 		padding-bottom: 20px;
-		padding-left: 20px 2.5%;
-		padding-right: 20px 2.5%;
+		padding-left: 20px;
+		padding-right: 20px;
 	}
 
 	aside {
 		width: 95%;  
 		float: none;
-		padding-left: 20px 2.5%;  /* 20 % 800 * 100  */
-		padding-right: 20px 2.5%;
+		padding-left: 20px;  /* 20 % 800 * 100  */
+		padding-right: 20px;
 		padding-bottom: 20px;
 	}
 
