@@ -49,6 +49,16 @@ header img {
 	padding-left: 0px;
 }
 
+#social_media {
+	position:relative;
+	top: 0px;
+	right: 10px;
+	height: 20%;
+	width: 20%;
+	float:right;
+	
+}
+
 header h2 {
 	font-size: 170%;
 	color: #800000;
