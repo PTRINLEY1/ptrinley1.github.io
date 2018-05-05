@@ -59,6 +59,10 @@ header img {
 	
 }
 
+#gif {
+	background: url("images/vetsAdSmall.gif") no-repeat;
+}
+
 header h2 {
 	font-size: 170%;
 	color: #800000;
