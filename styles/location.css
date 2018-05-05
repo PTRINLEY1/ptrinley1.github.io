@@ -6,7 +6,7 @@
 
 /* the styles for the elements */
 html {
-	background: url("https://cdn.avopix.com/photos/detail/d_53092_background-brown-closeup-detail.jpeg");
+	background: url("https://cdn.avopix.com/photos/detail/d_53092_background-brown-closeup-detail.jpeg") 5px;
 }
 
 body {
