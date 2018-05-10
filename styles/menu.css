@@ -6,7 +6,7 @@
 
 /* the styles for the elements */
 html {
-	background:url("https://cdn.pixabay.com/photo/2016/12/11/20/01/coffee-1900194_960_720.jpg");
+	background:url("https://cdn.avopix.com/photos/detail/d_53092_background-brown-closeup-detail.jpeg");
 }
 
 body {
@@ -17,7 +17,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	border: 3px solid #800000;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: URW Chancery L, cursive;;
 	font-size: 100%;
 	background-color: white;
 }
